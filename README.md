@@ -9,6 +9,10 @@ Just reminds you (in some way) that you are like Slowpoke :)
 * Clone this repository
 * `cargo build --release`
 
+### How to configure
+
+Set up environment variables listed in the `parameters.rs`. 
+
 ### How to run
 I recommend to run this bot as a service(e.g. as systemd service) on a machine.
 Also Docker images are available here: https://hub.docker.com/repository/docker/zamazan4ik/slowpoke-telegram
